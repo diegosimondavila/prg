@@ -1,0 +1,15 @@
+<style>
+  .embedded-html {
+    margin: 0 0 3px 0;
+    padding: 2px;
+    border-radius: 3px;
+    color: black;
+    font-family: Arial, sans-serif;
+  }
+  .safe {
+    background-color: #90EE90;
+  }
+  .risk {
+    background-color: #FFFFE0;
+  }
+</style>
